@@ -1,0 +1,3 @@
+[submodule "mpa-mlf-room-occupancy"]
+	path = mpa-mlf-room-occupancy
+	url = https://github.com/j-sikula/mpa-mlf-room-occupancy
